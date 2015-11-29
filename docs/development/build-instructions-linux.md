@@ -4,6 +4,7 @@ Follow the guidelines below for building Electron on Linux.
 
 ## Prerequisites
 
+* A 64-bit Linux installation
 * Python 2.7.x. Some distributions like CentOS still use Python 2.6.x
   so you may need to check your Python version with `python -V`.
 * Node.js v0.12.x. There are various ways to install Node. You can download
